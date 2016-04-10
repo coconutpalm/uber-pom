@@ -16,4 +16,3 @@ Parent pom enabling incremental Java builds for free and extra repos (eclipse, c
 * ArtifactID: com.github.coconutpalm
 * GroupID: datainmotion.nodejs
 * Version: [![Release](https://jitpack.io/v/com.github.coconutpalm/uber-pom.svg)](https://jitpack.io/#coconutpalm/uber-pom)
-* Type: pom
