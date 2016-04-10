@@ -1,22 +1,19 @@
 # uber-pom
 Parent pom enabling incremental Java builds for free and extra repos (eclipse, clojars)
 
-current version: 
+````xml
+<repositories>
+  <repository>
+    <id>jitpack.io</id>
+	<name>Jitpack repo</name>
+	<url>https://jitpack.io</url>
+  </repository>
+</repositories>
+````
 
-[![Release](https://jitpack.io/v/coconutpalm/uber-pom.svg)](https://jitpack.io/#coconutpalm/uber-pom)
+### Maven coordinates
 
-
-```xml
-
-  <repositories>
-    <repository>
-	    <id>jitpack.io</id>
-	    <name>Publish straight from Github</name>
-	    <url>https://jitpack.io</url>
-	 </repository>
-  </repositories>
-
-  <groupid>com.github.com.coconutpalm</groupid>
-  <artifactid>uber-pom</artifactid>
-  <version>version (see above)/version>
-```
+* ArtifactID: com.github.coconutpalm
+* GroupID: datainmotion.nodejs
+* Version: [![Release](https://jitpack.io/v/coconutpalm/uber-pom.svg)](https://jitpack.io/#coconutpalm/uber-pom)
+* Type: pom
