@@ -1,6 +1,8 @@
 # uber-pom
 Parent pom enabling incremental Java builds for free and extra repos (eclipse, clojars)
 
+### Maven coordinates
+
 ````xml
 <repositories>
   <repository>
@@ -10,8 +12,6 @@ Parent pom enabling incremental Java builds for free and extra repos (eclipse, c
   </repository>
 </repositories>
 ````
-
-### Maven coordinates
 
 * ArtifactID: com.github.coconutpalm
 * GroupID: uber-pom
