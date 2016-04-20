@@ -13,7 +13,7 @@ Parent pom enabling incremental Java builds for free and extra repos (eclipse, c
 </repositories>
 ````
 
-* ArtifactID: com.github.coconutpalm
-* GroupID: uber-pom
+* GroupID: com.github.coconutpalm
+* ArtifactID: uber-pom
 * Version: [![Release](http://jitpack.io/v/com.github.coconutpalm/uber-pom.svg)](https://jitpack.io/#coconutpalm/uber-pom)
 
